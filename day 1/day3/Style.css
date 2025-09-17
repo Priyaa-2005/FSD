@@ -1,0 +1,12 @@
+#container-box{
+    display :flex;
+   height : 200px;
+   width:400px;
+ 
+
+}
+.box{
+    border :1px,solid,burlywood;
+    height:auto;
+    width:100px;
+}
